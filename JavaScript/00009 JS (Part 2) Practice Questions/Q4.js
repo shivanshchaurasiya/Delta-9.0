@@ -5,7 +5,7 @@
 
 let string ="Account";
 
-if((string[0] === "a" || (string[0] === "A" )) && (string.length > 5) ){
+if((string[0] === "a" || string[0] === "A" ) && (string.length > 5) ){
     console.log("golden");
 }else {
     console.log("not golden");
