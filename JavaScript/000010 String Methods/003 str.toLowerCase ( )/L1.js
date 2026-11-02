@@ -1,4 +1,4 @@
 let name = "Class Room";
-let output = name.toUpperCase();
+let output = name.toLowerCase();
 
 console.log(output);
