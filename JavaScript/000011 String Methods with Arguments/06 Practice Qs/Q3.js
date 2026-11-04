@@ -4,6 +4,6 @@
 
 let msg = "apnaCollege";
 
-let newMsg = msg.slice(4).replace("l", "t");
+let newMsg = msg.slice(4).replace("l", "t").replace("l", "t");
 
 console.log(newMsg);
